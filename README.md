@@ -10,3 +10,5 @@
 - Domestic animals.csv: Data source: https://www.ssb.no/en/jord-skog-jakt-og-fiskeri/jordbruk/statistikk/gardsbruk-jordbruksareal-og-husdyr.
 - Agricultural area by use. Decares.csv: Data source: https://www.ssb.no/en/jord-skog-jakt-og-fiskeri/jordbruk/statistikk/gardsbruk-jordbruksareal-og-husdyr.
 - 04181_20250925-062327.xlsx: Carcasses approved for human consumption (tonnes), by contents, region, carcasses approved and half year. Data source: https://www.ssb.no/en/statbank/table/04181/tableViewLayout1/.
+- 14154_20250925-062754.xlsx: Pesticide use. Data source: https://www.ssb.no/en/statbank/table/14154/tableViewLayout1/.
+- Yield per decare of potatoes and meadows for mowing, by county. Kilos.csv: Yield per decare of potatoes and meadows for mowing, by county. Kilos. Data source: https://www.ssb.no/en/jord-skog-jakt-og-fiskeri/jordbruk/statistikk/potet-og-grovforavlingar . 
