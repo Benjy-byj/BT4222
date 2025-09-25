@@ -12,4 +12,5 @@
 - 04181_20250925-062327.xlsx: Carcasses approved for human consumption (tonnes), by contents, region, carcasses approved and half year. Data source: https://www.ssb.no/en/statbank/table/04181/tableViewLayout1/.
 - 14154_20250925-062754.xlsx: Pesticide use. Data source: https://www.ssb.no/en/statbank/table/14154/tableViewLayout1/.
 - Yield per decare of potatoes and meadows for mowing, by county. Kilos.csv: Yield per decare of potatoes and meadows for mowing, by county. Kilos. Data source: https://www.ssb.no/en/jord-skog-jakt-og-fiskeri/jordbruk/statistikk/potet-og-grovforavlingar . 
-- 12462_20250925-063448.xlsx: 12462: Producer price index. Oil/ gas extraction, manufacturing, mining and electricity (2021=100), by market, industry/commodity group, month and contents. Data source: https://www.ssb.no/en/statbank/table/12462/tableViewLayout1/. 
+- 12462_20250925-063448.xlsx: Producer price index. Oil/ gas extraction, manufacturing, mining and electricity (2021=100), by market, industry/commodity group, month and contents. Data source: https://www.ssb.no/en/statbank/table/12462/tableViewLayout1/. 
+- 04984_20250925-063820.xlsx: Entrepreneurial income from agriculture for holders, by contents, region and year. Data source: https://www.ssb.no/en/statbank/table/04984/tableViewLayout1/. 
