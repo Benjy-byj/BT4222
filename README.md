@@ -14,3 +14,9 @@
 - Yield per decare of potatoes and meadows for mowing, by county. Kilos.csv: Yield per decare of potatoes and meadows for mowing, by county. Kilos. Data source: https://www.ssb.no/en/jord-skog-jakt-og-fiskeri/jordbruk/statistikk/potet-og-grovforavlingar . 
 - 12462_20250925-063448.xlsx: Producer price index. Oil/ gas extraction, manufacturing, mining and electricity (2021=100), by market, industry/commodity group, month and contents. Data source: https://www.ssb.no/en/statbank/table/12462/tableViewLayout1/. 
 - 04984_20250925-063820.xlsx: Entrepreneurial income from agriculture for holders, by contents, region and year. Data source: https://www.ssb.no/en/statbank/table/04984/tableViewLayout1/. 
+- FAOSTAT_data_en_9-25-2025.csv: Crops and livestock products. Data source: https://www.fao.org/faostat/en/#data/QCL
+- Consumer Price Indices.csv: Data source: https://www.fao.org/faostat/en/#data/CP.
+- Temperature change on land.csv: Temperature change on land: Data source: https://www.fao.org/faostat/en/#data/ET.
+- Emissions totals .csv: Data source: https://www.fao.org/faostat/en/#data/GT.
+- FAOSTAT_data_en_9-25-2025 (2).csv: Employment Indicators: Agriculture and agrifood systems. Data source: https://www.fao.org/faostat/en/#data/OEA.
+- Government Expenditure.csv: investment Government Expenditure.csv. Data sources: https://www.fao.org/faostat/en/#data.
