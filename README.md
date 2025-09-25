@@ -9,3 +9,4 @@
 - Number of animals per holding keeping various kinds of animal, by county and size of holding.csv: Data source: https://www.ssb.no/en/jord-skog-jakt-og-fiskeri/jordbruk/statistikk/gardsbruk-jordbruksareal-og-husdyr in table 2.
 - Domestic animals.csv: Data source: https://www.ssb.no/en/jord-skog-jakt-og-fiskeri/jordbruk/statistikk/gardsbruk-jordbruksareal-og-husdyr.
 - Agricultural area by use. Decares.csv: Data source: https://www.ssb.no/en/jord-skog-jakt-og-fiskeri/jordbruk/statistikk/gardsbruk-jordbruksareal-og-husdyr.
+- 04181_20250925-062327.xlsx: Carcasses approved for human consumption (tonnes), by contents, region, carcasses approved and half year. Data source: https://www.ssb.no/en/statbank/table/04181/tableViewLayout1/.
