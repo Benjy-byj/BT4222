@@ -20,3 +20,11 @@
 - Emissions totals .csv: Data source: https://www.fao.org/faostat/en/#data/GT.
 - FAOSTAT_data_en_9-25-2025 (2).csv: Employment Indicators: Agriculture and agrifood systems. Data source: https://www.fao.org/faostat/en/#data/OEA.
 - Government Expenditure.csv: investment Government Expenditure.csv. Data sources: https://www.fao.org/faostat/en/#data.
+
+### /tools/
+- merge_to_workbook.py: Combine all CSV and XLSX files into a single sheet and save as one XLSX file.
+    ```
+    pip install pandas openpyxl xlsxwriter xlrd
+
+    python3 merge_to_workbook.py --input ./../data --output merged_main_sheet.xlsx --all-xlsx-sheets
+    ```
