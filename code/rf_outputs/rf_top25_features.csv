@@ -1,0 +1,26 @@
+feature,importance
+num__Tilskudd i USD,0.4217
+txt__gress,0.0237
+txt__skog,0.0224
+txt__storfe,0.0166
+txt__sau,0.016
+txt__korn,0.0134
+txt__salg,0.0131
+txt__fôr,0.0131
+txt__melk,0.0094
+num__Kompleks produksjon (1/0),0.0086
+cat__NY tilskuddskategori_M,0.0082
+cat__NY tilskuddskategori_S,0.0081
+txt__bier,0.0067
+cat__Fylke_Trøndelag,0.0063
+txt__hest,0.0055
+cat__NY tilskuddskategori_L,0.0053
+txt__gris,0.0052
+cat__Fylke_Innlandet,0.0051
+cat__NY tilskuddskategori_XS,0.0049
+cat__Fylke_Vestland,0.0043
+cat__Fylke_Rogaland,0.0042
+cat__Fylke_Agder,0.0037
+cat__Fylke_Buskerud,0.0036
+cat__Fylke_Møre Og Romsdal,0.0036
+txt__potet,0.0036
