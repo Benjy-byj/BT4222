@@ -1,6 +1,9 @@
 # BT4222
 
 ## Files structure:
+notice: 
+1. The following code is designed to run in Colab and reads/writes files from Google Drive. If you want to run it locally or your Google Drive path differs, you may need to modify the file paths accordingly. 
+2. The version of the torch-geometric library required for the GNN depends on the installed PyTorch version. The default version used in the code is 2.8.0+cu126, but you may need to adjust it based on your actual PyTorch environment.
 ### /code/
 - data_analysis.ipynb: Jupyter Notebook for data analysis and visualization.
 - randomforest_baseline.ipynb: Jupyter Notebook for building a Random Forest using original dataset as baseline model.
@@ -39,3 +42,4 @@ some data used in this file are from:
 
     python3 merge_to_workbook.py --input ./../data --output merged_main_sheet.xlsx --all-xlsx-sheets
     ```
+### github repo: https://github.com/Benjy-byj/BT4222
