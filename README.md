@@ -9,6 +9,7 @@
 - CatBoost_baseline.ipynb: Jupyter Notebook for building a CatBoost using original dataset as baseline model.
 - CatBoost_with_feature_engineering.ipynb: Jupyter Notebook for building a CatBoost model with manually conducted feature engineering.
 - CatBoost_gnn.ipynb: Jupyter Notebook for building a CatBoost model with features generated from Graph Neural Networks (GNN) (as well as manually conducted feature engineering).
+- Norway_Subsidy_Zone_Mapping.ipynb: Jupyter Notebook for mapping Norway's subsidy zones based on geographical data(a part of the manually conducted feature engineering).
 ### /data/
 - Main_Data_Bank.xlsx: The initial raw data.
 - Main_Data_Bank_new.xlsx: The processed data after manually conducted feature engineering
