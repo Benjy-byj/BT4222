@@ -43,4 +43,4 @@ some data used in this file are from:
 
     python3 merge_to_workbook.py --input ./../data --output merged_main_sheet.xlsx --all-xlsx-sheets
     ```
-### github repo: https://github.com/Benjy-byj/BT4222
+### github repo: https://github.com/Benjy-byj/BT4222 (please use the branch 'final_project' to view the final version of the code)
