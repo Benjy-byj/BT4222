@@ -1,6 +1,14 @@
 # BT4222
 
 ## Files structure:
+### /code/
+- data_analysis.ipynb: Jupyter Notebook for data analysis and visualization.
+- randomforest_baseline.ipynb: Jupyter Notebook for building a Random Forest using original dataset as baseline model.
+- randomforest_with_feature_engineering.ipynb: Jupyter Notebook for building a Random Forest model with manually conducted feature engineering, such as Total Production Value, Production Concentration Index, etc.
+- randomforest_gnn.ipynb: Jupyter Notebook for building a Random Forest model with features generated from Graph Neural Networks (GNN) (as well as manually conducted feature engineering).
+- CatBoost_baseline.ipynb: Jupyter Notebook for building a CatBoost using original dataset as baseline model.
+- CatBoost_with_feature_engineering.ipynb: Jupyter Notebook for building a CatBoost model with manually conducted feature engineering.
+- CatBoost_gnn.ipynb: Jupyter Notebook for building a CatBoost model with features generated from Graph Neural Networks (GNN) (as well as manually conducted feature engineering).
 ### /data/
 - Main_Data_Bank.xlsx: The initial raw data.
 - 01222_20250925-055717.xlsx: This concerns data on Norway's population, obtained from https://www.ssb.no/en/statbank/table/01222/tableViewLayout1/. The timeframe spans from Q1 2010 to Q2 2025.
