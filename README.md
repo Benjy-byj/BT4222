@@ -1,6 +1,9 @@
 # BT4222
 
 ## Files structure:
+notice: 
+1. The following code is designed to run in Colab and reads/writes files from Google Drive. If you want to run it locally or your Google Drive path differs, you may need to modify the file paths accordingly. 
+2. The version of the torch-geometric library required for the GNN depends on the installed PyTorch version. The default version used in the code is 2.8.0+cu126, but you may need to adjust it based on your actual PyTorch environment.
 ### /code/
 - data_analysis.ipynb: Jupyter Notebook for data analysis and visualization.
 - randomforest_baseline.ipynb: Jupyter Notebook for building a Random Forest using original dataset as baseline model.
@@ -9,8 +12,12 @@
 - CatBoost_baseline.ipynb: Jupyter Notebook for building a CatBoost using original dataset as baseline model.
 - CatBoost_with_feature_engineering.ipynb: Jupyter Notebook for building a CatBoost model with manually conducted feature engineering.
 - CatBoost_gnn.ipynb: Jupyter Notebook for building a CatBoost model with features generated from Graph Neural Networks (GNN) (as well as manually conducted feature engineering).
+- Norway_Subsidy_Zone_Mapping.ipynb: Jupyter Notebook for mapping Norway's subsidy zones based on geographical data(a part of the manually conducted feature engineering).
 ### /data/
-- Main_Data_Bank.xlsx: The initial raw data.
+- Main_Data_Bank.xlsx: The initial raw data. link: https://docs.google.com/spreadsheets/d/1kSMwgBks54ZAtpYBouD2ilzBA8Ou_3Gr/edit?usp=sharing&ouid=107661658753076912606&rtpof=true&sd=true
+- Main_Data_Bank_new.xlsx: The processed data after manually conducted feature engineering link: https://docs.google.com/spreadsheets/d/1z8H9V9qw-hG3h4uwm-EoquRblEPKCL77/edit?usp=sharing&ouid=107661658753076912606&rtpof=true&sd=true
+
+some data used in this file are from:
 - 01222_20250925-055717.xlsx: This concerns data on Norway's population, obtained from https://www.ssb.no/en/statbank/table/01222/tableViewLayout1/. The timeframe spans from Q1 2010 to Q2 2025.
 - API_NY.GDP.MKTP.CD_DS2_en_csv_v2_1011502: Historical data on Norway's GDP, obtained from https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=NO.
 - Economic trends. Forecasts.csv： Norwegian economic data forecasts, including Gross Domestic Product (GDP), domestic GDP, employment figures, unemployment rate (level), standard annual wage, Consumer Price Index (CPI), etc., are presented as year-on-year percentage changes unless otherwise specified. Data source: https://www.ssb.no/en/nasjonalregnskap-og-konjunkturer/konjunkturer/statistikk/konjunkturtendensene 
@@ -36,3 +43,4 @@
 
     python3 merge_to_workbook.py --input ./../data --output merged_main_sheet.xlsx --all-xlsx-sheets
     ```
+### github repo: https://github.com/Benjy-byj/BT4222 (please use the branch 'final_project' to view the final version of the code)
